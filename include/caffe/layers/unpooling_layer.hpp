@@ -1,5 +1,5 @@
-#ifndef CAFFE_POOLING_LAYER_HPP_
-#define CAFFE_POOLING_LAYER_HPP_
+#ifndef CAFFE_UNPOOLING_LAYER_HPP_
+#define CAFFE_UNPOOLING_LAYER_HPP_
 
 #include <vector>
 
